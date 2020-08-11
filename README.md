@@ -28,4 +28,3 @@ When we claim the computer is learning, we assume the system will infer from exa
   (More Will Be Added Soon)
   
  > Thank You
- > Sandhya M
