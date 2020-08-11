@@ -10,7 +10,7 @@ When we claim the computer is learning, we assume the system will infer from exa
 > (Image Credit:  http://www.cognub.com/index.php/cognitive-platform/)
 
 ### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
-- Below are the list of ML Lab Works : 
+Below are the list of ML Lab Works : 
 - Lab 01 : Starting Data Analyis, Reading Data and Simple Visualizations
 - Lab 02 : Supervised Learning with the following constraints:
   - Demonstrate Naive Bayes Classifier for nominal Data.
