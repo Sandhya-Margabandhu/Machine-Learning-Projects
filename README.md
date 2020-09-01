@@ -11,23 +11,25 @@ When we claim the computer is learning, we assume the system will infer from exa
 
 ### This repo will contain popular topics of my Machine Learning Lab with Examples for each of them. Few of them are pointed out as follows:
 Below are the list of ML Lab Works : 
-- Lab 01 : Starting Data Analyis, Reading Data and Simple Visualizations
-- Lab 02 : Supervised Learning with the following constraints:
+- ML_LAB_01 : Starting Data Analyis, Reading Data and Simple Visualizations
+- ML_LAB_02 : Supervised Learning with the following constraints:
   - Demonstrate Naive Bayes Classifier for nominal Data.
   - Demonstrate Naive Bayes Classifier for numeric Data.
   - Demonstrate error using any three metrics and two plots.
-- Lab 03:  Demonstrate K Means Algorithm, while including the following components : 
+- ML_LAB_03:  Demonstrate K Means Algorithm, while including the following components : 
   - At least one plot to visualize the results. 
   - Elbow method for choosing optimum number of clusters.
   - At least one metric for the evaluation of the quality of obtained clusters.
-- Lab 04:  Demonstrate PCA for dimensionality reduction for image data with :
+- ML_LAB_04:  Demonstrate PCA for dimensionality reduction for image data with :
   - Demonstrate application of the reduced data for visualization.
   - Demonstrate the process using number of components and percentage of variance as criteria for obtaining the reduced dataset.
-- Lab 05:  Demonstration of Linear Discriminant Analysis (LDA) for Dimensionality Reduction
-- Lab 06:  Demonstration of Logistic Regression 
+- ML_LAB_05:  Demonstration of Linear Discriminant Analysis (LDA) for Dimensionality Reduction
+- ML_LAB_06:  Demonstration of Logistic Regression 
    - Make_Classification 
    - Make_Multilabel_Classification Functions for Generating Synthetic Data 
-
+ - ML_LAB_07: Logistic Regression (LR)
+   - Accuracy Comparison With and Without Regularization (Lasso and Ridge) for Breast Cancer Dataset.
+   - Comparing KNN with LR for the Same Dataset
   (More Will Be Added Soon)
   
  > Thank You
