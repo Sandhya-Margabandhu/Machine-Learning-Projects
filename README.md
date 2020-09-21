@@ -34,6 +34,9 @@ Below are the list of ML Lab Works :
    - Implementation of Linear Regression using "winequality_red" dataset
    - Demonstrating the impact of regularization using any suitable dataset of sklearn
    - Generating a synthetic dataset for regression using make_regression function.
+ - ML_LAB_09: Support Vector Classifier (SVC)
+   -  Classification using Linear, Polynomial and Radial Basis Function (RBF) Kernels. Demonstrate the Impact of Regularization.
+   -  Demonstrate GridSearchCV method for obtaining optimal HyperParameters for Classification using RBF Kernel.
   (More Will Be Added Soon)
   
  > Thank You
