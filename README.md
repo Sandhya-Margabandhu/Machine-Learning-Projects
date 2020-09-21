@@ -30,6 +30,10 @@ Below are the list of ML Lab Works :
  - ML_LAB_07: Logistic Regression (LR)
    - Accuracy Comparison With and Without Regularization (Lasso and Ridge) for Breast Cancer Dataset.
    - Comparing KNN with LR for the Same Dataset
+ - ML_LAB_08: Linear Regression (LR)
+   - Implementation of Linear Regression using "winequality_red" dataset
+   - Demonstrating the impact of regularization using any suitable dataset of sklearn
+   - Generating a synthetic dataset for regression using make_regression function.
   (More Will Be Added Soon)
   
  > Thank You
