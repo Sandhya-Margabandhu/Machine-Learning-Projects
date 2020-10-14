@@ -42,7 +42,11 @@ Below are the list of ML Lab Works :
    -  Implemented two Random Forest Classifier models to predict whether a person makes over 50K a year, one with 10 decision-trees and another one with 100 decision-trees.
    -  The expected accuracy increases with number of decision-trees in the model.
    -  Demonstrated the feature selection process using the Random Forest model to find only the important features, rebuild the model using these features and see its effect on       accuracy.
+ - ML_LAB_11: MultiLayer Perceptron (MLP)
+   -  Demonstrate Multilayer Perceptron using sklearn (House Price Data)
+   -  Minimum two different "Network Topologies"
+   -  3 Different Activation Functions (Sigmoid, ReLu, TanH)
+   -  MLP for regression.
    
-  (More Will Be Added Soon)
   
  > Thank You
